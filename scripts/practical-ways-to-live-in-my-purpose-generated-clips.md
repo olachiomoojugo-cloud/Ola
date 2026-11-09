@@ -38,6 +38,24 @@ These were made from the portrait so her face stays the same. Each one becomes t
 | B-13a | Helping her little sister with homework | https://manymotions.com/api/media-forge/asset/ad5e4b8f-5540-45ab-9f17-b4dc7f102ca9/image-0.png |
 | B-13b | Kind to a lonely coworker | https://manymotions.com/api/media-forge/asset/4fc03b7e-1730-4cb6-872e-95ec2b61f7d1/image-0.png |
 
+## Priority plan: the 10 key shots (option 3)
+
+Together with the 7 finished clips, these give one strong visual for every section of the script. Everything else is covered by the chat screen and truth cards.
+
+| # | Shot | Section | What's needed | Credits |
+|---|---|---|---|---|
+| 1 | B-02 Awake in bed | Cold open | Animate existing still | 525 |
+| 2 | B-09 Mirror moment | Step 1: Identity | Animate existing still | 525 |
+| 3 | B-12 Light in open hands | Step 2: "What's in your hand?" | Text-to-video | 525 |
+| 4 | B-16 Single tear | Step 3: "I know. I was there." | Still + animate | ~638 |
+| 5 | B-19 Gold coin unburied | Step 4: Gifts | Text-to-video | 525 |
+| 6 | B-21 Notification, thumb hesitates | Pattern break | Text-to-video | 525 |
+| 7 | B-24 Morning Bible, phone face-down | Step 5: First 10 minutes | Still + animate | ~638 |
+| 8 | B-26 Walking with a mentor | Step 6: Circle | Still + animate | ~638 |
+| 9 | B-28 Each step lights up | Step 7: Lamps | Text-to-video | 525 |
+| 10 | B-33 Phone set down, sunrise | Close: "Put the phone down" | Text-to-video | 525 |
+| | | | **Total** | **about 5,600** |
+
 ## Still to generate (stopped when the account ran out of credits)
 
 - **Animate the 6 stills above:** B-02, B-06, B-07, B-09, B-13a, B-13b
