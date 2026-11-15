@@ -3,7 +3,7 @@
 **Format:** Animated chat between a young person (the narrator) and God
 **Narrator:** A young man or young woman, early-to-mid 20s. They read their own messages *and* read God's replies out loud as they arrive.
 **Topic:** Practical ways to live in my purpose
-**Runtime:** about 9–10 minutes (about 1,400 spoken words)
+**Runtime:** about 9 minutes (about 1,000 spoken words, plus typing pauses and silences)
 
 ---
 
