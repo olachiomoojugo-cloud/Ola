@@ -124,6 +124,84 @@ const EPISODES = [
       "Subscribe for the next chat": "Warm, a hint of mystery.",
     },
   },
+  {
+    md: "scripts/why-havent-you-answered-my-prayer.md",
+    out: "word-docs/Texting-God-Ep3-Prayer-VOICE-SCRIPT.docx",
+    code: "E3",
+    title: "Episode 3: Why Haven't You Answered My Prayer?",
+    pron: [["Daniel", "DAN-yul"], ["Isaiah", "eye-ZAY-uh"], ["Psalm", "sahm (the 'p' is silent)"], ["Tolu", "TOH-loo"]],
+    dir: {
+      "I've prayed the same prayer for two years.": "Flat, worn out. Not dramatic.",
+      "Every night. Every Sunday.": "Tired, listing it.",
+      "Why haven't You answered me?": "Quiet. The hurt finally shows.",
+      "I have.": "Calm, certain. Short.",
+      "No You haven't. Look at my inbox.": "Frustrated, a little sharp.",
+      "You're waiting for one answer.": "Gentle, slow.",
+      "If you've ever prayed until you ran out of words": "To camera, warm and honest.",
+      "Everyone at church keeps saying": "Exasperated. Stress 'TWO YEARS'.",
+      "I'm starting to think You just don't hear me.": "Quiet, vulnerable.",
+      "I heard you the first time you asked.": "Tender, steady.",
+      "He didn't see it.": "Slow. Let it land.",
+      "Okay. Then explain the last two years.": "Challenging, but listening.",
+      "Let Me give you 7 things.": "Lower your voice. The hook.",
+      "I have three. Yes. No. And not yet.": "Count them out slowly.",
+      "\"Not yet\" feels exactly like \"no.\"": "Honest, a bit hurt.",
+      "I know. But it isn't.": "Kind, firm.",
+      "Do you remember what you prayed for in 2023?": "Playful, knowing.",
+      "…no?": "Suspicious.",
+      "Marcus.": "Deadpan. Then wait for the laugh.",
+      "God PLEASE let Marcus text me back": "Read it cringing, past-you voice.",
+      "OH NO.": "Full laugh-cry. Let it be big.",
+      "Do you still want Me to answer that one?": "Teasing.",
+      "Okay. Thank You for that": "Laughing, then sincere.",
+      "A good Father doesn't hand over": "Warm, fatherly.",
+      "But why does \"not yet\" take so long?": "Tired, sincere.",
+      "Because I'm not only preparing the answer.": "Slow. Stress 'you'.",
+      "If I gave you the dream job": "Gentle questions, not lecturing.",
+      "…probably not.": "Quiet admission.",
+      "The waiting room is where I build": "The key line. Slow and clear.",
+      "Can I ask you something? What exactly": "Curious.",
+      "\"God, please bless my career.\"": "Rote, like a habit.",
+      "And what does that mean?": "Gentle push.",
+      "…I actually don't know.": "Realisation, a small laugh.",
+      "Don't stop asking. But ask Me for something real.": "Encouraging.",
+      "Why her and not me?": "Hurt, a little jealous.",
+      "Go back and text her.": "Gentle but clear.",
+      "I don't feel like celebrating right now.": "Sulky, honest.",
+      "I know. Do it anyway.": "Warm, firm.",
+      "Her yes is not your no.": "Slow. Stress 'yes' and 'no'.",
+      "TOLU!!! I'm so proud of you": "Bright, choosing joy. She's typing as she says it.",
+      "Can I be honest with you?": "Warm, a little playful.",
+      "You're going to be anyway.": "Dry, awkward laugh.",
+      "You're praying for a job. When did you last update your CV?": "Gentle, knowing.",
+      "…March.": "Small voice.",
+      "Last March?": "Playful suspicion.",
+      "…the March before that.": "Caught out, sheepish.",
+      "Faith without works is dead.": "Kind but direct.",
+      "Is it okay that I'm kind of angry at You?": "Nervous, honest.",
+      "And I put his question in the Bible.": "Stress 'in the Bible'.",
+      "I'd rather have your honest anger": "Tender.",
+      "Scroll up.": "Soft. A gentle instruction.",
+      "What?": "Confused.",
+      "Scroll up in our chat. All the way.": "Patient, a hint of a smile.",
+      "Please let me pass my final exam": "Reading softly, remembering.",
+      "Please let Mum's surgery go well": "Softer. Emotional.",
+      "Help me get out of that relationship": "Soft, a small exhale.",
+      "Please help me make rent this month": "Soft.",
+      "Please let Dad call me": "Barely above a whisper.",
+      "I forgot about all of these.": "Very quiet. Long pause after.",
+      "I didn't.": "Immediate, tender.",
+      "You've been staring at the one prayer": "Slow, gentle.",
+      "The God who answered all of these": "Steady, certain.",
+      "So what do I do tonight?": "Lighter, ready.",
+      "Pray it again. The specific version.": "Warm.",
+      "Then go to sleep. I'll stay up.": "Smile in the voice.",
+      "You always stay up.": "Laughing.",
+      "I never sleep. Remember?": "Callback to Episode 1. Small smile.",
+      "Before you scroll away, scroll up.": "To camera, sincere.",
+      "Subscribe for the next chat": "Warm, a hint of mystery.",
+    },
+  },
 ];
 
 const DEFAULT_DIR = {
@@ -155,7 +233,8 @@ function parse(md) {
     let m;
     if ((m = ln.match(/^\*\*(ME|GOD):\*\*\s*(.*)$/))) cur.rows.push({ voice: m[1], ...cleanSpoken(m[2]), raw: m[2] });
     else if ((m = ln.match(/^\*\(VO\)\*\s*(.*)$/))) cur.rows.push({ voice: "VO", ...cleanSpoken(m[1]), raw: m[1] });
-    else if ((m = ln.match(/She types: \*"(.+?)"\*/))) cur.rows.push({ voice: "ME", ...cleanSpoken(m[1]), raw: m[1], typed: true });
+    else if ((m = ln.match(/types: \*"(.+?)"\*/))) cur.rows.push({ voice: "ME", ...cleanSpoken(m[1]), raw: m[1], typed: true });
+    else if ((m = ln.match(/old message bubble.*?: \*"(.+?)"\*/)) || (m = ln.match(/^`\[SCREEN\]` \*"(.+?)" \(\d{4}\)\*/))) cur.rows.push({ voice: "ME", ...cleanSpoken(m[1]), raw: m[1], reading: true });
     if (/⏸/.test(ln) || /holds for/.test(ln)) {
       const s = ln.match(/(\d+) (?:full )?seconds?/);
       const secs = s ? s[1] : (/holds … holds/.test(ln) ? "3" : "2");
@@ -231,10 +310,11 @@ function buildEpisode(ep) {
       } else if (spoken === "?") {
         spoken = "Hm?";
         dir = "Curious.";
-      } else if (r.emo.length && !dir.toLowerCase().includes(r.emo[0])) {
+      } else if (r.emo.length && dir === DEFAULT_DIR[r.voice]) {
         dir += ` (${r.emo.join(", ")})`;
       }
-      if (r.typed) dir = (ep.dir[spoken] || "Bright.") + " She's typing this as she says it.";
+      if (r.typed && !/typing/.test(dir)) dir = dir + " She's typing this as she says it.";
+      if (r.reading && !/[Rr]ead/.test(dir)) dir = "Reading her old message aloud. " + dir;
       n++;
       const id = `${ep.code}-${String(n).padStart(3, "0")}`;
       const fill = r.voice === "GOD" ? GOD_FILL : undefined;
