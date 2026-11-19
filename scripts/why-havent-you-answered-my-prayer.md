@@ -3,379 +3,332 @@
 **Episode 3** of the Texting God series
 **Format:** Animated chat between a young woman (the narrator) and God
 **Narrator:** The same young woman from Episodes 1 and 2. She reads her own messages *and* reads God's replies out loud as they arrive.
-**Topic:** Unanswered prayer: why God seems silent, and what to do while you wait
-**Runtime:** about 9 minutes (about 800 spoken words, plus long on-screen moments, typing pauses and silences)
+**Topic:** Unanswered prayer when someone you love is sick: guilt, grief, and where God is in the waiting
+**Tone:** Deeper and quieter than Episodes 1 and 2. Almost no humour. Let the silences do the work.
+**Runtime:** about 8–9 minutes (about 750 spoken words, read slowly, plus long silences)
 
 ---
 
 ## HOW TO READ THIS SCRIPT
 
-Same tags as Episodes 1 and 2:
+Same tags as the earlier episodes:
 
 | Tag | What it means |
 |---|---|
-| **ME:** | A message she types. Natural, honest, a little raw. |
-| **GOD:** | A message from God. Read slower and softer, about 20% slower. |
+| **ME:** | A message she types. Tired, raw, close to tears. |
+| **GOD:** | A message from God. Slower and softer than ever. Never rushed. |
 | *(VO)* | Speaking straight to the viewer. |
 | `[SCREEN]` | What the animation shows. |
 | `[SFX]` / `[MUSIC]` | Sound cues. |
-| ⏸ | A beat of silence. **Keep it.** |
+| ⏸ | A beat of silence. **Keep every one.** |
 
-**Chat look:** identical to the earlier episodes (dark mode, gold "Father" bubbles, "Always online", typing dots), with two changes:
-- The clock reads **Sunday, 10:14 PM**.
-- The progress tracker is now a small **candle**. Each truth makes the flame a little brighter: **1 / 7 … 7 / 7**.
+**Chat look:** the same dark mode and gold "Father" bubbles, but:
+- The clock reads **3:52 AM**. The battery is at 4%.
+- **No counter this time.** Along the bottom of the screen runs a thin green **heart-monitor line** that beeps softly. It's the visual and sound thread of the whole episode.
+- The gold bubbles glow a little dimmer, like light in a hospital room at night.
 
 ---
 
 ## 0:00 – COLD OPEN (THE HOOK)
 
-`[SCREEN]` A phone in the dark. **Sunday, 10:14 PM.** An email notification slides down: *"Thank you for your interest. Unfortunately…"*
-`[SCREEN]` She swipes to her inbox. A long list of similar subject lines scrolls past. A counter in the corner ticks up: **63 rejections.**
-`[SFX]` A soft, dull *thud* with each email.
+`[SFX]` Black screen. A hospital heart monitor: *beep… beep… beep…*
+`[SCREEN]` A phone lights up in a dark hospital room. 3:52 AM. Behind the chat, the heart-monitor line moves slowly.
 
-`[SCREEN]` She opens the chat with "Father." Her cursor blinks for a long time.
+**ME:** She's finally asleep.
 
-**ME:** I've prayed the same prayer for two years.
+**ME:** The doctor used a new word today. "Comfortable." They want to keep her comfortable.
 
-**ME:** Every night. Every Sunday. I fasted. I did everything they said to do.
+**ME:** I know what that means.
+
+⏸
+`[SFX]` *Beep… beep…*
+
+**ME:** I have prayed for my mum every single night for eight months.
 
 **ME:** Why haven't You answered me?
 
-⏸
-`[SCREEN]` "• • •" appears… and holds for 4 full seconds.
+`[SCREEN]` "• • •" appears. Holds for 5 full seconds. Only the monitor beeps.
 
-**GOD:** I have.
+**GOD:** I'm here.
 
-**ME:** No You haven't. Look at my inbox.
+**GOD:** I'm in the room.
 
-**GOD:** You're waiting for one answer. I've been giving you a different one.
-
-`[MUSIC]` A soft piano starts.
-`[SCREEN]` Title slams in: **"I ASKED GOD WHY HE HASN'T ANSWERED MY PRAYER"**
-
-*(VO)* If you've ever prayed until you ran out of words, and heard nothing back, stay with me. What He showed me at the end of this chat? I'd forgotten it completely.
-
----
-
-## 0:50 – THE PROBLEM
-
-**ME:** Everyone at church keeps saying "God's timing is perfect." But it's been TWO YEARS.
-
-**ME:** I'm starting to think You just don't hear me.
-
-**GOD:** I heard you the first time you asked.
-
-**GOD:** When Daniel prayed, I sent the answer the same day. It took three weeks to arrive. (Daniel 10:12–13)
-
-**GOD:** He didn't see it. That didn't mean it wasn't on the way.
-
-`[TRUTH CARD]` **"Unanswered is not unheard."**
-
-**ME:** Okay. Then explain the last two years.
-
-**GOD:** Let Me give you 7 things. And the last one is something you already know but forgot.
-
-`[SCREEN]` The candle appears in the corner, barely lit. **1 / 7**
-
----
-
-## 1:50 – TRUTH 1: I ANSWER IN THREE WAYS
-
-**GOD:** You think I only have two answers: yes, or silence.
-
-**GOD:** I have three. Yes. No. And not yet.
-
-**ME:** "Not yet" feels exactly like "no."
-
-**GOD:** I know. But it isn't.
-
-**GOD:** My thoughts are not your thoughts, and My ways are not your ways. (Isaiah 55:8)
-
-`[TRUTH CARD]` **"Yes. No. Not yet. All three are answers."**
-
-`[TODAY'S ASSIGNMENT]` 📝 *Write your prayer down with today's date. You'll want proof later of how I answered it.*
-
----
-
-## 2:40 – TRUTH 2: SOMETIMES "NO" IS PROTECTION
-
-`[SCREEN]` Candle: **2 / 7**
-
-**GOD:** Do you remember what you prayed for in 2023?
-
-**ME:** …no?
-
-**GOD:** Marcus.
-
-`[SCREEN]` A blurred old message bubble floats up from the past: *"God PLEASE let Marcus text me back 🙏🙏🙏"*
-
-**ME:** OH NO. 😭
-
-**GOD:** Do you still want Me to answer that one?
-
-**ME:** Okay. Thank You for that "no." Seriously.
-
-**GOD:** If you, imperfect as you are, know how to give good gifts, how much more will I? (Matthew 7:11)
-
-**GOD:** A good Father doesn't hand over everything His child begs for. He hands over what's good.
-
-`[TRUTH CARD]` **"Some of your best answers were 'no.'"**
-
----
-
-## 3:40 – TRUTH 3: WAITING IS NOT WASTED
-
-`[SCREEN]` Candle: **3 / 7**
-
-**ME:** But why does "not yet" take so long?
-
-**GOD:** Because I'm not only preparing the answer. I'm preparing you.
-
-**GOD:** If I gave you the dream job two years ago, would you have known how to handle rejection? How to keep going? How to pray when it hurts?
+**ME:** Then why aren't You doing anything?
 
 ⏸
 
-**ME:** …probably not.
+**GOD:** I'm doing more than you can see tonight.
 
-**GOD:** Those who wait on Me will renew their strength. They will run and not grow weary. (Isaiah 40:31)
+**GOD:** But I'm not going to pretend this doesn't hurt. It does. I know.
 
-**GOD:** The waiting room is where I build the person who can carry the answer.
+`[MUSIC]` A single sustained piano note. Very soft.
+`[SCREEN]` Title fades in, quiet, not slammed: **"I ASKED GOD WHY HE HASN'T HEALED MY MUM"**
 
-`[TRUTH CARD]` **"The waiting room is where I build the person who can carry the answer."**
-
-`[TODAY'S ASSIGNMENT]` 📝 *Write down one way you've grown in the last two years that you wouldn't have without the wait.*
-
----
-
-## 4:40 – TRUTH 4: KEEP ASKING, SPECIFICALLY
-
-`[SCREEN]` Candle: **4 / 7**
-
-**GOD:** Can I ask you something? What exactly do you pray every night?
-
-**ME:** "God, please bless my career."
-
-**GOD:** And what does that mean?
-
-**ME:** …I actually don't know.
-
-**GOD:** Jesus told a story about a widow who kept knocking on a judge's door until he answered her. He told it so you would always pray and not give up. (Luke 18:1)
-
-**GOD:** Don't stop asking. But ask Me for something real. Tell Me what you actually want, and why.
-
-`[TRUTH CARD]` **"Vague prayers make it hard to see specific answers."**
-
-`[TODAY'S ASSIGNMENT]` 📝 *Rewrite your prayer in one specific sentence. Not "bless my career." What job? What city? What do you hope it gives you?*
+*(VO)* I almost didn't post this one. But if you're sitting in a hospital, or a waiting room, or your car outside one, praying for someone you love… this is for you. And stay to the end, because what He told me about my mum's prayer, I'll never forget.
 
 ---
 
-## 5:30 – PATTERN BREAK (RETENTION RESET)
+## 1:10 – "PLEASE DON'T SEND ME A VERSE"
 
-`[SCREEN]` A notification drops down: *"Tolu: I GOT THE JOB!!! 😭🎉🎉"*
-`[SFX]` Buzz.
+**ME:** Everyone keeps sending me Bible verses. "All things work together." "God has a plan."
 
-`[SCREEN]` She stares at it. Types *"Congrats!!"*… deletes it. Switches back to the chat with God.
+**ME:** I don't want a verse right now.
 
-**ME:** Why her and not me? We applied the same month.
+**GOD:** Then I won't send you one.
 
-**GOD:** Go back and text her.
+**GOD:** I'll just stay.
 
-**ME:** I don't feel like celebrating right now.
+`[SCREEN]` The chat goes still. 6 seconds of nothing but the monitor and the blinking cursor.
+`[SFX]` *Beep… beep… beep…*
 
-**GOD:** I know. Do it anyway.
+**ME:** …thank You.
 
-**GOD:** Rejoice with those who rejoice. (Romans 12:15) Her yes is not your no.
+**GOD:** When My friend Lazarus died, I knew I was about to raise him.
 
-`[SCREEN]` She switches back and types: *"TOLU!!! I'm so proud of you 😭 Dinner on me this weekend."* Sends it.
-`[SFX]` A warm *ping*. Tolu replies instantly with a row of hearts.
+**GOD:** I still stood outside his tomb and cried with his sisters. (John 11:35)
 
-`[TRUTH CARD]` **"Her yes is not your no."**
+**GOD:** I don't rush your grief. I sit in it with you.
 
----
-
-## 6:10 – TRUTH 5: DO THE PART IN YOUR HANDS
-
-`[SCREEN]` Candle: **5 / 7**
-
-**GOD:** Can I be honest with you?
-
-**ME:** You're going to be anyway. 😅
-
-**GOD:** You're praying for a job. When did you last update your CV?
-
-**ME:** …March.
-
-**GOD:** Last March?
-
-**ME:** …the March before that.
-
-**GOD:** 😄
-
-**GOD:** Faith without works is dead. (James 2:17) I'll open doors. But you have to walk up to them.
-
-`[TRUTH CARD]` **"Pray like it depends on God. Work like it depends on you."**
-
-`[TODAY'S ASSIGNMENT]` 📝 *Do one practical thing for your prayer this week: update the CV, send the message, book the appointment.*
+`[TRUTH CARD]` **"God doesn't rush your grief. He weeps with you."**
 
 ---
 
-## 7:00 – TRUTH 6: STAY HONEST WITH ME
+## 2:20 – "IS IT MY FAULT?"
 
-`[SCREEN]` Candle: **6 / 7**
+**ME:** Can I ask the thing I'm scared to ask?
 
-**ME:** Is it okay that I'm kind of angry at You?
+**GOD:** Always.
 
-**GOD:** Read the Psalms. David asked Me, "How long, Lord? Will You forget me forever?" (Psalm 13:1)
+**ME:** Is it my fault?
 
-**GOD:** And I put his question in the Bible.
+**ME:** Did I not pray enough? Was my faith too small? Is it because of the year I stopped going to church?
 
-**GOD:** I'd rather have your honest anger than your polite silence. Bring all of it.
+`[SCREEN]` The typing dots appear immediately. No delay this time.
 
-`[TRUTH CARD]` **"God can handle your honest prayers."**
+**GOD:** No.
 
----
-
-## 7:40 – TRUTH 7: THE TWIST (REMEMBER WHAT I'VE ALREADY DONE)
-
-`[SCREEN]` Candle: **7 / 7**. The flame is bright and steady.
-`[MUSIC]` Cuts out completely.
-
-**GOD:** Scroll up.
-
-**ME:** What?
-
-**GOD:** Scroll up in our chat. All the way.
-
-`[SCREEN]` She scrolls. The chat races backwards through months and years. It slows down on old messages, each with a small gold ✓ next to it:
-
-`[SCREEN]` *"Please let me pass my final exam" (2022)* ✓
-`[SCREEN]` *"Please let Mum's surgery go well" (2023)* ✓
-`[SCREEN]` *"Help me get out of that relationship" (2023)* ✓
-`[SCREEN]` *"Please help me make rent this month" (2024)* ✓
-`[SCREEN]` *"Please let Dad call me" (2024)* ✓
-`[SFX]` A soft chime for each ✓.
+**GOD:** Listen to Me. No.
 
 ⏸
 
-**ME:** I forgot about all of these.
+**GOD:** Her sickness is not a punishment. Not for her. Not for you.
 
-**GOD:** I didn't.
+**GOD:** When My disciples asked whose sin caused a man's suffering, I told them: neither his nor his parents'. (John 9:3)
 
-**GOD:** You've been staring at the one prayer I haven't answered yet, and forgot the hundreds I already did.
+**GOD:** You did not cause this. And you cannot pray hard enough to earn a different ending. That was never how I work.
 
-`[MUSIC]` The piano comes back in, warm and full.
+`[SCREEN]` Her cursor blinks. She types nothing for a long moment.
 
-**GOD:** I will remember the deeds of the Lord. I will remember Your wonders of old. (Psalm 77:11)
+**ME:** I've been carrying that for eight months.
 
-**GOD:** The God who answered all of these hasn't stopped working. Not on this one either.
+**GOD:** I know. Put it down.
 
-`[TRUTH CARD]` **"Look back at what He's done. It'll help you trust what He's doing."**
+`[TRUTH CARD]` **"Her sickness is not your failure."**
 
 ---
 
-## 8:40 – THE CLOSE
+## 3:40 – "THEN WHY?"
 
-**ME:** So what do I do tonight?
+**ME:** Then why? You healed people in the Bible. You could heal her tonight. Right now.
 
-**GOD:** Pray it again. The specific version.
+**GOD:** Yes. I could.
 
-**GOD:** Then go to sleep. I'll stay up.
+**ME:** Then WHY?
 
-**ME:** You always stay up. 😅
+⏸
+`[SCREEN]` "• • •" … holds … holds.
 
-**GOD:** I never sleep. Remember?
+**GOD:** There are answers I can't give you tonight in a way that would make this hurt less.
 
-`[SFX]` Soft *ding*. "Seen." The phone dims. In the dark, the candle in the corner stays lit.
+**GOD:** Right now you see through a dark glass. One day you'll see clearly, and you'll understand. (1 Corinthians 13:12)
 
-*(VO)* Before you scroll away, scroll up. In your own life. Comment ONE prayer God has already answered for you, so the person reading the comments tonight remembers He still does.
+**GOD:** Paul begged Me three times to take his pain away. My answer wasn't removal. It was this: "My grace is sufficient for you." (2 Corinthians 12:9)
 
-*(VO)* Subscribe for the next chat, because next time I'm asking Him about the thing that steals my sleep.
+**ME:** That sounds like a no.
 
-`[SCREEN]` End card: *"Next chat: 'God, how do I stop overthinking?'"*
+**GOD:** It sounds like a no. It was a promise.
+
+**GOD:** When you pass through the waters, I will be with you. (Isaiah 43:2)
+
+**GOD:** I never promised you wouldn't go through the water. I promised you would never go through it alone.
+
+`[TRUTH CARD]` **"Sometimes the answer isn't 'I'll take it away.' It's 'I'll carry you through it.'"**
+
+---
+
+## 5:10 – THE KNOCK (PATTERN BREAK)
+
+`[SCREEN]` A notification drops down: *"Tolu: I'm downstairs. I brought food. Can I come up?"*
+`[SCREEN]` Below it, a stack of older messages from Tolu, all unread: *"Thinking of you"* · *"How's your mum?"* · *"I'm here if you need me"*
+`[SFX]` A soft buzz.
+
+**ME:** I haven't answered her in two weeks.
+
+**GOD:** I know.
+
+**ME:** I don't want anyone to see me like this.
+
+**GOD:** She's not coming to see you strong. She's coming to sit with you.
+
+**GOD:** Let her in. Sometimes I answer your prayer for strength by sending someone up the stairs.
+
+`[SCREEN]` She types: *"Come up. Room 412."* Sends it.
+`[SFX]` A gentle *ping*.
+
+`[TRUTH CARD]` **"Sometimes God's answer knocks on the door."**
+
+---
+
+## 6:00 – THE TWIST (HER MUM'S PRAYER)
+
+`[MUSIC]` Silence. Only the monitor.
+
+**ME:** Do You even hear her prayers? She still prays every night. Even now. I hear her whispering.
+
+**GOD:** I hear every word.
+
+**GOD:** Do you want to know what she prays?
+
+⏸
+
+**ME:** …yes.
+
+`[SCREEN]` "• • •" holds for 5 seconds.
+
+**GOD:** She stopped praying for herself a while ago.
+
+**GOD:** Every night she prays for you.
+
+**GOD:** She says: "Whatever happens to me, please don't let my daughter lose You."
+
+`[SCREEN]` The chat freezes. The monitor line keeps moving. 6 full seconds of silence.
+`[SFX]` *Beep… beep… beep…*
+
+**ME:** She never told me.
+
+**GOD:** She's prayed some version of it since the night you were born.
+
+**GOD:** And that prayer? I'm answering it right now.
+
+**GOD:** You're awake at 4 AM in a hospital chair. And you're still talking to Me.
+
+`[MUSIC]` The piano returns, slow and full, for the first time in the episode.
+
+`[TRUTH CARD]` **"The prayer being answered tonight might be hers."**
+
+---
+
+## 7:30 – THE CLOSE
+
+**ME:** Will You heal her?
+
+⏸
+
+**GOD:** I can't promise you tomorrow in the way you want Me to.
+
+**GOD:** But I promise you this: whatever happens, she will not be alone for one second. And neither will you.
+
+**GOD:** And one day, I will wipe every tear from your eyes. There will be no more death, no more crying, no more pain. (Revelation 21:4)
+
+**GOD:** No more hospitals. No more 4 AMs.
+
+**ME:** Stay with me?
+
+**GOD:** I'm in the room. I never left it.
+
+`[SCREEN]` The phone lowers. The camera finds a hand on the hospital blanket: her mum's. In her sleep, her mum's fingers slowly close around her daughter's hand.
+`[SFX]` The monitor, steady. A soft knock at the door.
+`[SCREEN]` Fade to black.
+
+*(VO)* If someone you love is sick tonight, write their name in the comments. Just their name. I'll pray for them, and so will everyone who reads it.
+
+*(VO)* And if you're the one carrying it alone right now, answer the text. Let someone come up the stairs.
+
+`[SCREEN]` End card, quiet: *"Next chat: 'God, how do I stop overthinking?'"*
 
 ---
 ---
 
 ## PRODUCTION NOTES
 
-### What's new in this episode
-- **The candle tracker** replaces the counter and heart. It brightens with each truth and stays lit in the final shot, a quiet visual for "God is still working."
-- **The rejection counter (63)** in the cold open. Make each email land with a dull *thud*; it's the instant "this is me" moment for viewers job hunting.
-- **The "Marcus" flashback (2:40)** is the episode's funniest moment and the best Short. Make the old message bubble look slightly faded and dated.
-- **The scroll-up twist (7:40)** is built for the chat format. Slow the scroll right down on each ✓ and give every chime room to breathe.
-- **Tolu and the brunch callback** link this episode to Episode 2. Regular viewers will recognise her.
+### Tone
+- This is the series' most emotional episode. **Pull everything back:** no title slam, no bouncy sound effects, no emoji, quieter music. The heart monitor is the soundtrack.
+- **The silences are the script.** The 6-second gaps (1:10 and 6:00) will feel long in the edit. Keep them. That's where viewers feel it.
+- The only "warm" sounds are the Tolu notification and the piano returning at the twist. Save the full music until then.
 
 ### Delivery
-- The cold open is tired and flat, not dramatic: she's been praying for two years and is worn out.
-- "OH NO. 😭" is a full laugh-cry. Let it be big; it's the release after a heavy opening.
-- In the twist, read "I forgot about all of these" very quietly, then leave a real silence before "I didn't."
-- "I never sleep. Remember?" is a callback to Episode 1's first line. Give it a small smile.
+- She's whispering. It's 4 AM in a hospital room and her mum is asleep. Record the ME lines close to the mic, very quietly.
+- GOD lines are the slowest in the series. No performance, no "voice of God." Gentle, close, steady, like someone sitting right next to her.
+- "No. Listen to Me. No." is the one moment God is firm. Say it quickly and clearly.
+- After "She says: 'Whatever happens to me…'", don't rush to the next line. If you need to stop the recording because you're emotional, that's fine; it will come through.
 
-### Why this keeps people watching
-1. **A familiar hurt in the first 10 seconds:** a rejection email and a long-unanswered prayer.
-2. **A bold reply to an open loop:** "I have." "No You haven't."
-3. **Humour at the right moment:** "Marcus" lands right after the heaviest part of the opening.
-4. **A pattern break with a real test** at 5:30: celebrating a friend while you're still waiting.
-5. **A twist only this format can do:** scrolling up the chat to see years of answered prayers.
-6. **A comment prompt that builds faith:** "Comment one prayer God has already answered" fills the comments with testimonies, which helps both viewers and the video's reach.
+### Be careful with
+- **Don't promise healing.** God never says "she'll be fine," and never says "I won't heal her." This keeps it honest for viewers whose loved ones recovered and for those whose loved ones didn't.
+- **Don't use a real illness name** on screen. "Sick" and "comfortable" are enough, and keep it relatable for everyone.
+- **Reading the comments:** this episode will draw people sharing real grief. Pin a kind comment of your own near the top, and if you can, reply to some names.
 
-### Shorts (6 ready-made clips)
-- "Why haven't You answered me?" → "I have." (Cold open)
-- "Do you remember what you prayed for in 2023?" → "Marcus." (Truth 2, the strongest clip)
-- "The waiting room is where I build the person who can carry the answer." (Truth 3)
-- "Tolu got the job" → "Her yes is not your no." (Pattern break)
-- "When did you last update your CV?" "…March." "Last March?" (Truth 5)
-- "Scroll up." (The twist)
+### Why it holds attention
+1. **The heart monitor** creates tension from the first second: viewers keep listening for it.
+2. **"I'm in the room"** reframes the question immediately.
+3. **Every section answers a question the viewer is secretly asking:** Is it my fault? Why won't He just heal? Where is He?
+4. **The Tolu knock** is the one moment of relief, placed right where attention dips.
+5. **The twist reframes the whole video:** the prayer being answered is her mum's, not hers.
+6. **The ending refuses a fake happy ending**, which makes it believable, and the hand squeeze gives hope without a promise.
+
+### Shorts (5 clips)
+- "Why haven't You answered me?" → "I'm in the room." (Cold open)
+- "Is it my fault?" → "No. Listen to Me. No." (2:20, the strongest clip)
+- "I never promised you wouldn't go through the water." (3:40)
+- "Do you want to know what she prays?" (6:00)
+- "Stay with me?" → "I'm in the room. I never left it." (Close)
 
 ### Video prompts (new shots for this episode)
-Use the same STYLE and CHARACTER blocks from Episode 1's prompt file. New shots:
-- **E3-01:** *Close-up of her face in a dark bedroom on a Sunday night, lit by a laptop; her eyes scan a long list of emails, her expression slowly emptying. Unreadable screen.*
-- **E3-02:** *She kneels beside her bed in the dark, elbows on the mattress, hands clasped, head bowed against them. Exhausted. Slow push-in.*
-- **E3-03:** *An ancient man in robes kneels by an open window facing a distant sunrise, praying (Daniel). Soft dust in the golden light.*
-- **E3-04:** *A small candle on a wooden nightstand, its flame flickering low, then slowly steadying and brightening. Macro shot.*
-- **E3-05:** *A quiet hospital waiting room with empty chairs at dawn, warm light beginning to stream through the window. Symbolising the waiting room.*
-- **E3-06:** *She sits at a desk with her laptop, determined, updating a document, a cup of coffee beside her, morning light. Screen blurred.*
-- **E3-07:** *Two young Black women hugging and laughing at a restaurant table over dinner, warm evening light, one of them crying happy tears.*
-- **E3-08:** *Close-up of a worn prayer journal, handwritten pages turning slowly, small gold check marks glowing on the page. No readable text.*
-- **E3-09:** *Her bedroom at night, phone face-down on the nightstand, a single candle still burning beside it. She sleeps peacefully. Slow pull-back.*
+Use the same STYLE and CHARACTER blocks from Episode 1's prompt file, but swap the bedroom for a hospital room: *"Dim hospital room at night, the only light a soft green-blue glow from a heart monitor and a warm lamp, quiet and still."*
+- **E3-01:** *Close-up of a hospital heart monitor in a dark room, its green line pulsing steadily. Shallow focus. No readable numbers.*
+- **E3-02:** *She sits curled in a plastic hospital chair beside a bed at night, knees pulled up, face lit by her phone, exhausted. Her mother sleeps in the bed, face turned away, softly blurred.*
+- **E3-03:** *Ancient Bethany: a man in simple robes stands outside a stone tomb with two grieving women, his head bowed, a tear on his cheek. Face not clearly visible. Warm dusk light.*
+- **E3-04:** *Close-up of her hands holding a phone in her lap, her thumb hovering over the keyboard, not typing. The monitor glow flickers across her skin.*
+- **E3-05:** *Wide shot of a river at dawn, mist on the water, a lone figure wading through it toward the light, a warm golden glow surrounding them.*
+- **E3-06:** *A hospital corridor at night: a young Black woman in a coat walks quickly toward the camera holding a bag of takeaway food, worried and kind.*
+- **E3-07:** *Close-up of an older Black woman's hands, a hospital bracelet on one wrist, folded on the blanket as if in prayer, her lips moving faintly as she sleeps. Soft warm lamplight.*
+- **E3-08:** *Close-up of two hands on a hospital blanket: the mother's fingers slowly close around her daughter's hand. Warm light gently rises. Very slow.*
+- **E3-09:** *The hospital window at first light: the sky outside turning from deep blue to gold, rain drops on the glass catching the sunrise.*
 
 ---
 
 ## YOUTUBE SEO
 
 **Title options:**
-- **I Asked God Why He Hasn't Answered My Prayer** *(recommended)*
-- Why Hasn't God Answered My Prayer? (His Reply Changed Everything)
-- "God, It's Been 2 Years." I Texted Him About My Unanswered Prayer
-- 7 Truths for When God Feels Silent | Chat With God
+- **I Asked God Why He Hasn't Healed My Mum** *(recommended)*
+- Why Hasn't God Answered My Prayer? (Chat With God at 4 AM)
+- "God, I've Prayed for 8 Months." What He Said About My Mum's Prayer
+- When God Doesn't Answer Your Prayer for Healing
 
-**Thumbnail idea:** Her face lit by a phone, tired eyes. Big text: **"Why haven't You answered?"** Gold bubble from "Father": **"I have."**
+**Thumbnail idea:** Her face lit by a phone in a dark hospital room, a heart-monitor line glowing green across the bottom. Text: **"Why haven't You healed her?"** Gold bubble from "Father": **"I'm in the room."**
 
 **Description:**
-> I asked God why He hasn't answered the prayer I've prayed every night for two years. His answer surprised me, and the last thing He showed me made me realise how much I'd forgotten. 🙏
+> At 3:52 AM, beside my mum's hospital bed, I asked God why He hasn't answered the prayer I've prayed every night for eight months. His answers didn't make the pain disappear, but what He told me about my mum's own prayer changed everything. 🤍
 >
-> If you've ever prayed until you ran out of words and heard nothing back, this chat with God is for you.
+> If someone you love is sick, if you're praying for healing and hearing nothing back, or if you've secretly wondered whether it's your fault, this chat with God is for you.
 >
 > ⏱️ CHAPTERS
-> 0:00 Why haven't You answered me?
-> 0:50 "I'm starting to think You don't hear me"
-> 1:50 Truth 1: Yes, no, and not yet
-> 2:40 Truth 2: Sometimes "no" is protection
-> 3:40 Truth 3: Waiting is not wasted
-> 4:40 Truth 4: Keep asking, specifically
-> 5:30 When your friend gets the answer first
-> 6:10 Truth 5: Do the part in your hands
-> 7:00 Truth 6: Stay honest with God
-> 7:40 Truth 7: Scroll up
-> 8:40 "I'll stay up."
+> 0:00 "Why haven't You answered me?"
+> 1:10 "Please don't send me a verse"
+> 2:20 "Is it my fault?"
+> 3:40 "Then why?"
+> 5:10 The knock on the door
+> 6:00 What my mum prays every night
+> 7:30 "Stay with me?"
 >
-> 💬 Comment ONE prayer God has already answered for you, so the next person reading remembers He still does.
+> 💬 If someone you love is sick tonight, write their name in the comments. We'll pray for them.
 >
-> 📖 SCRIPTURES: Daniel 10:12–13 • Isaiah 55:8 • Matthew 7:11 • Isaiah 40:31 • Luke 18:1 • Romans 12:15 • James 2:17 • Psalm 13:1 • Psalm 77:11
+> 📖 SCRIPTURES: John 11:35 • John 9:3 • 1 Corinthians 13:12 • 2 Corinthians 12:9 • Isaiah 43:2 • Revelation 21:4
+>
+> 🤍 If you're grieving or carrying this alone, please reach out to someone today: a friend, your church, or a grief counsellor. You don't have to sit in the waiting room by yourself.
 >
 > ⚠️ God's messages in this video are a creative dramatisation built on Scripture. Every reference is listed above so you can read it yourself.
 >
-> #ChristianMotivation #UnansweredPrayer #ChatWithGod
+> #UnansweredPrayer #ChristianEncouragement #ChatWithGod
 
 **Tags:**
-> why hasn't God answered my prayer, unanswered prayer, when God is silent, waiting on God, God's timing, how to pray, prayer not answered, chat with God, texting God, conversation with God, Christian motivation, Christian encouragement, Bible verses about waiting, faith while waiting, keep praying, God message for you today, Christian youth, job rejection
+> why hasn't God answered my prayer, unanswered prayer, praying for healing, when God doesn't heal, praying for a sick parent, my mom is sick, God in suffering, why does God allow suffering, is it my fault, grief and faith, chat with God, texting God, conversation with God, Christian encouragement, Bible verses for the sick, God is with you, hospital prayer, faith in hard times
